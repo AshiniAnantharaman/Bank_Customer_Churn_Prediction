@@ -1,5 +1,5 @@
 
-# BANK CUSTOMER CHURN PREDICTION USING ANN 
+<h1 align='center'> BANK CUSTOMER CHURN PREDICTION USING ANN </h1> 
 
 The project focuses on predicting if a particular customer will leave or continue to stay in the bank based on various features like Tenure, Age, Balance, Gender, etc., using an Artificial Neural Network.
 
