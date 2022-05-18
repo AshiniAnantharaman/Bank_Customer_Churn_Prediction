@@ -30,11 +30,11 @@ There are few steps which were followed while doing this project.
     - Checked for all the null values and count.
 3. Exploratory Data Analysis:
     - The correlation between each feature was checked using a pair plot
-    ![App Screenshot](https://github.com/AshiniAnantharaman/Bank_Customer_Churn_Prediction/blob/main/Correlation_Heatmap.png)
+ ![Correlation_Heatmap](https://github.com/AshiniAnantharaman/Bank_Customer_Churn_Prediction/blob/main/Correlation_Heatmap.png)
     - To get a deeper insight the pairplot was plotted against all these features.
     - To check if the data is balanced or not, the count of output feature - Exited values are plotted which shows that the data is imbalanced.
     - The Age based churn was also compared using a bar chart
-    ![App Screenshot](https://github.com/AshiniAnantharaman/Bank_Customer_Churn_Prediction/blob/main/Age_churn_comparison.png)
+ ![Age_Churn_Comparison](https://github.com/AshiniAnantharaman/Bank_Customer_Churn_Prediction/blob/main/Age_churn_comparison.png)
 4. Data Preparation
     All the features except for *Exited* is taken as the input feature and the output is created with the *Exited* feature.
     The dataset is then split into training and testing data and used in the model.
